@@ -36,15 +36,7 @@
 
 ## 🚀 快速使用
 
-### 方式一：通过 sx 安装（AtomCode / 团队治理）
-
-本项目设计为团队 Vault 资产，通过 `sx` 管理：
-
-```bash
-sx install refactoring-compass
-```
-
-### 方式二：通过 npx skills 安装（Vercel Skills 生态）
+### 通过 npx skills 安装
 
 直接使用 `npx` 零安装运行：
 
