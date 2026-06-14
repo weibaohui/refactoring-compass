@@ -12,7 +12,7 @@
 
 | 路径 | 安装命令 | 说明 |
 |------|----------|------|
-| `skills/coding-refact/` | `npx skills add weibaohui/skills/coding-refact` | 代码重构与整洁之道完整知识体系 |
+| `skills/code-refactor/` | `npx skills add weibaohui/skills/code-refactor` | 代码重构与整洁之道完整知识体系 |
 
 ---
 
@@ -33,7 +33,7 @@
 
 ```bash
 # 安装 coding-refact skill
-npx skills add weibaohui/skills/coding-refact
+npx skills add weibaohui/skills/code-refactor
 ```
 
 > 前提：需要 Node.js 18+。更多用法见 [skills.sh](https://skills.sh)。
@@ -49,7 +49,7 @@ npx skills add weibaohui/skills/coding-refact
 ├── 📄 .gitignore
 │
 └── 📁 skills/
-    └── 📁 coding-refact/             ← 代码重构 skill
+    └── 📁 code-refactor/             ← 代码重构 skill
         └── 📄 SKILL.md               ← 完整知识体系（核心文件）
             │
             ├── PART 1: PRINCIPLES        — 设计原则
