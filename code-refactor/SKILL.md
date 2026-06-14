@@ -7,6 +7,7 @@ metadata:
   author: weibaohui
   tags: [refactoring, clean-code, code-quality, code-review, technical-debt, 重构, 代码整洁, 代码质量]
   docs-url: github.com/weibaohui/refactoring-compass
+---
 
 # Code Refactoring Skill
 
